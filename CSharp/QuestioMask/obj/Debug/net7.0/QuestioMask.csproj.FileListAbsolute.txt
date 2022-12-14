@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\bin\Debug\net7.0\QuestioMask.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\bin\Debug\net7.0\QuestioMask.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\bin\Debug\net7.0\QuestioMask.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\bin\Debug\net7.0\QuestioMask.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\bin\Debug\net7.0\QuestioMask.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\QuestioMask.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\QuestioMask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\QuestioMask.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\QuestioMask.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\QuestioMask.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\QuestioMask.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\refint\QuestioMask.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\QuestioMask.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\QuestioMask.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp\QuestioMask\obj\Debug\net7.0\ref\QuestioMask.dll
