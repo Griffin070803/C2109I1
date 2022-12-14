@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\bin\Debug\net7.0\SwithCaseCSharp.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\bin\Debug\net7.0\SwithCaseCSharp.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\bin\Debug\net7.0\SwithCaseCSharp.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\bin\Debug\net7.0\SwithCaseCSharp.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\bin\Debug\net7.0\SwithCaseCSharp.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\SwithCaseCSharp.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\SwithCaseCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\SwithCaseCSharp.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\SwithCaseCSharp.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\SwithCaseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\SwithCaseCSharp.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\refint\SwithCaseCSharp.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\SwithCaseCSharp.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\SwithCaseCSharp.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\SwithCaseCSharp\obj\Debug\net7.0\ref\SwithCaseCSharp.dll

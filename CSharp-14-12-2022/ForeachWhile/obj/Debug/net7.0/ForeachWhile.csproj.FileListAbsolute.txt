@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\refint\ForeachWhile.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\ForeachWhile\obj\Debug\net7.0\ref\ForeachWhile.dll
