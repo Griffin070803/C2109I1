@@ -47,7 +47,10 @@ try
     if (total <= 0) throw new Exception("Phải lớn hơn 0");
     Console.WriteLine($"{nameof(total)}={total}");
 } 
-catch(Exception) when (amount.Contains("$") { }
+catch(Exception) when (amount.Contains("$"))
+{
+    Console.WriteLine("Chuỗi không được có dấu $");
+}
 catch (Exception e)
 {
     Console.WriteLine($"{e.GetType()}, {e.Message}");
