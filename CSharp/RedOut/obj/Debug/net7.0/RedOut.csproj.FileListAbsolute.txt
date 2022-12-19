@@ -1,0 +1,5 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\RedOut\obj\Debug\net7.0\RedOut.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\RedOut\obj\Debug\net7.0\RedOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\RedOut\obj\Debug\net7.0\RedOut.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\RedOut\obj\Debug\net7.0\RedOut.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-14-12-2022\RedOut\obj\Debug\net7.0\RedOut.csproj.CoreCompileInputs.cache

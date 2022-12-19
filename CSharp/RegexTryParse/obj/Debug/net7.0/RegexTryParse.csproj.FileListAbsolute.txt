@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\bin\Debug\net7.0\RegexTryParse.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\bin\Debug\net7.0\RegexTryParse.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\bin\Debug\net7.0\RegexTryParse.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\bin\Debug\net7.0\RegexTryParse.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\bin\Debug\net7.0\RegexTryParse.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\RegexTryParse.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\RegexTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\RegexTryParse.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\RegexTryParse.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\RegexTryParse.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\RegexTryParse.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\refint\RegexTryParse.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\RegexTryParse.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\RegexTryParse.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\RegexTryParse\obj\Debug\net7.0\ref\RegexTryParse.dll

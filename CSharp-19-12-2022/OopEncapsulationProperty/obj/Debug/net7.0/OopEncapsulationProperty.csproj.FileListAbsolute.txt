@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\refint\OopEncapsulationProperty.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-19-12-2022\OopEncapsulationProperty\obj\Debug\net7.0\ref\OopEncapsulationProperty.dll

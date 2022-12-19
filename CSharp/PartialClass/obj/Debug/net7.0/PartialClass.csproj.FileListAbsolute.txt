@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\bin\Debug\net7.0\PartialClass.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\bin\Debug\net7.0\PartialClass.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\bin\Debug\net7.0\PartialClass.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\bin\Debug\net7.0\PartialClass.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\bin\Debug\net7.0\PartialClass.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\PartialClass.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\PartialClass.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\refint\PartialClass.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\PartialClass.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\PartialClass.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-16-12-2022\PartialClass\obj\Debug\net7.0\ref\PartialClass.dll
