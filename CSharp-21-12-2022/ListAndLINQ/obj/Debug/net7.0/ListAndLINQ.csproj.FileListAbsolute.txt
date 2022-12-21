@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\refint\ListAndLINQ.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ListAndLINQ\obj\Debug\net7.0\ref\ListAndLINQ.dll

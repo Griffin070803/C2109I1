@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\refint\ExtensionMethod.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\ExtensionMethod\obj\Debug\net7.0\ref\ExtensionMethod.dll
