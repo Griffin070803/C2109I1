@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\HomeWork.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\HomeWork.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\bin\Debug\net7.0\HomeWork.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\bin\Debug\net7.0\HomeWork.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\bin\Debug\net7.0\HomeWork.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\bin\Debug\net7.0\HomeWork.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\bin\Debug\net7.0\HomeWork.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\HomeWork.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\refint\HomeWork.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\HomeWork.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\HomeWork.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\HomeWork\obj\Debug\net7.0\ref\HomeWork.dll
