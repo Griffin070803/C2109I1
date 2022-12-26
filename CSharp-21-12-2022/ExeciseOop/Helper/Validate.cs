@@ -40,7 +40,7 @@ internal class Validate<T>
                         obj = date.Add(DateTime.Now.TimeOfDay);//giờ phút giây
                         break;
                     case TypeCode.Char:
-                        obj = Convert.ToChar(str.ToLower);
+                        obj = Convert.ToChar(str.ToLower());
                         if (!obj.In('y', 'n')) throw new Exception("Error, must b y or n");
                         break;
                     default:
