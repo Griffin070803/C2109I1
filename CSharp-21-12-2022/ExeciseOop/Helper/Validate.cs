@@ -1,4 +1,6 @@
-﻿namespace ExeciseOop.Helper;
+﻿using System.Threading.Tasks.Dataflow;
+
+namespace ExeciseOop.Helper;
 internal class Validate<T>
 {
     public static T CheckReadLine()
@@ -36,6 +38,10 @@ internal class Validate<T>
                         {"d/M/yyyy", "d-M-yyyy"}, new CultureInfo("vi-VN"), DateTimeStyles.None,
                         out var t)? t:throw new Exception("Datetime wrong (d/M/yyyy or d-M-yyyy)");
                         obj = date.Add(DateTime.Now.TimeOfDay);//giờ phút giây
+                        break;
+                    case TypeCode.Char:
+                        obj = Convert.ToChar(str.ToLower);
+                        if (!obj.In('y', 'n')) throw new Exception("Error, must b y or n");
                         break;
                     default:
                         obj = null;
