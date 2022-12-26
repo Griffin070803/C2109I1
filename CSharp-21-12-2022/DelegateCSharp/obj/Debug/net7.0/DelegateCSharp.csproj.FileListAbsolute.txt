@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\bin\Debug\net7.0\DelegateCSharp.exe
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\bin\Debug\net7.0\DelegateCSharp.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\bin\Debug\net7.0\DelegateCSharp.runtimeconfig.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\bin\Debug\net7.0\DelegateCSharp.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\bin\Debug\net7.0\DelegateCSharp.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\DelegateCSharp.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\DelegateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\DelegateCSharp.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\DelegateCSharp.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\DelegateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\DelegateCSharp.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\refint\DelegateCSharp.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\DelegateCSharp.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\DelegateCSharp.genruntimeconfig.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\DelegateCSharp\obj\Debug\net7.0\ref\DelegateCSharp.dll

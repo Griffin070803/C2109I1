@@ -1,0 +1,12 @@
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\nguye\source\repos\C2109I1\CSharp-21-12-2022\Entity\obj\Debug\net7.0\ref\Entity.dll

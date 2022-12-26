@@ -1,5 +1,7 @@
 ﻿
 
+using System.Collections;
+
 Console.InputEncoding = Encoding.Unicode;
 Console.OutputEncoding = Encoding.Unicode;
 
@@ -126,3 +128,97 @@ list.ForEach(
 list.Where(stu => stu.RollNumber > 2)
     .ToList()
     .ForEach(Console.WriteLine);
+
+//crtrl . ?  -- show only method là các phương thức có sẵn của list này, khi những phương thức này không có hãy dùng linq
+//           -- show extendtion method là của linq với 
+//list.
+
+
+//var r = from stu in list
+//        where stu.RollNumber > 2
+//        select new // ANONYMOUS TYPE
+//        {
+//            stu.RollNumber,
+//            stu.Fullname
+//        }; //lấy hai cột
+//r.ToList().ForEach(Console.WriteLine);
+
+
+//var r = from stu in list
+//        where stu.RollNumber > 2
+//        select new // ANONYMOUS TYPE
+//        {
+//            StudentDetails = $"{stu.RollNumber} : {stu.Fullname}",
+//            StudentRoom = $"{stu.Section} = {stu.HostelNumber}"
+//        }; //được quyền tùy biến
+//r.ToList().ForEach(Console.WriteLine);
+
+//=================== method syntax======================
+
+//list.Select(stu => new
+//{
+//    StudentDetails = $"{stu.RollNumber} : {stu.Fullname}",
+//    StudentRoom = $"{stu.Section} = {stu.HostelNumber}"
+//}).ToList().ForEach(Console.WriteLine);
+
+foreach (var stu in list)
+{
+    Console.WriteLine(stu);
+}
+
+IEnumerator enume = list.GetEnumerator();
+while (enume.MoveNext())
+{
+
+}
+
+// Từ khi có linq
+//2 câu dưới là 1
+var b = from stu in list
+        select stu;
+//linq to object
+//lần đầu tiên thực thi trên server và trả về bộ nhớ
+//select * from list where rollnumber > 2
+IEnumerable<Student> i = from stu in list
+                         select stu;
+//là vào bộ nhớ loại bỏ chỉ lấy 2 dòng đầu tiên
+i = i.Take(2);
+
+//==============
+//linq to sql
+//lần đầu tiên thực thi trên server và trả về bộ nhớ
+//select * from list where rollnumber > 2
+IQueryable<Student> u = from stu in list.AsQueryable()
+                        select stu;
+u = u.Take(2);
+//select top(2) * from list where rollnumber > 2
+//sẽ chạy lên server lần nữa
+//hay sử dụng để làm phân trang, lazy loading
+
+//=====================================================
+var k = from stu in list
+        where stu.RollNumber == 2
+        select stu;
+k.ToList().ForEach(Console.WriteLine);
+
+
+//=====================================================
+//sắp xếp
+
+//list.OrderDescending();//tự động xắp sếp
+//var obj1 = from stu in list
+//           select stu;
+
+//query syntax
+var obj1 = from stu in list
+           orderby stu.Section descending, stu.HostelNumber ascending
+           select stu;
+//method syntax
+//câu này sai
+//var obj2 = list.OrderByDescending(stu => stu.Section).OrderBy(stu => stu.HostelNumber);
+
+//câu này đúng
+var obj3 = list.Where(stu => stu.RollNumber > 2)
+               .OrderByDescending(stu => stu.Section)
+               .ThenBy(stu => stu.HostelNumber);
+//ThenBy xắp sếp theo ascending
