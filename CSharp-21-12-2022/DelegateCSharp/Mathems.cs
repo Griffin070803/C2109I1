@@ -6,6 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DelegateCSharp;
+//khai báo ngoài class 
+//safe thread : luồng an toàn
 delegate void Abc(int a, int b);
 internal class Mathems
 {
